@@ -1,0 +1,17 @@
+* {
+    margin: 0 auto;
+    width: 700px;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(255, 230, 198);
+}
+
+ul, ol {
+    list-style: none;
+}
+
+img {
+    width: 300px;
+}
